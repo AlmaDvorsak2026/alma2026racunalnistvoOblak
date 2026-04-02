@@ -6,7 +6,7 @@ Pozdravljeni!
 
 
 
-Moje ime je Dušan Fugina.  
+Moje ime je Dušan Fugina.
 
 Sem učitelj računalništva in se ukvarjam s programiranjem, podatkovnimi bazami in računalništvom v oblaku.
 
@@ -27,4 +27,8 @@ Sem učitelj računalništva in se ukvarjam s programiranjem, podatkovnimi bazam
 \## Kontakt
 
 GitHub: https://github.com/your-username
+
+
+
+\## email: dusan.fugina@almamater.si
 
